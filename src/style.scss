@@ -130,12 +130,14 @@ a {
                 text-decoration: none;
                 color: #837DA2;
                 border-bottom: 1px solid #ffffff;
+                
                 &:hover {
                     color: #1D1E33;
                     border-color: #837DA2;
                 }
             }
         }
+        
         &__text__p {
             margin-top: 0;
             margin-bottom: 15px;
@@ -167,6 +169,7 @@ a {
         line-height: normal;
         font-family: "Merriweather", serif;
     }
+    
     &__social {
         color: #ffffff;
         text-align: center;
